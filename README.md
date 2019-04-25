@@ -1,4 +1,4 @@
-## Examples of OOP Module (Structural) Design Pattern in JS
+## Example of OOP Module (Structural) Design Pattern in JS
 
   Install dependencies:
 
